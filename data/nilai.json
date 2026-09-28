@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nim": "12345678",
-        "nama": "Jemiren",
+        "nama": "Rifadli Ginting & Horison Timur",
         "mata_kuliah": "Antropologi",
         "nilai": 85,
         "grade": "A",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "nim": "22222222",
-        "nama": "Legini",
+        "nama": "Horison Timur",
         "mata_kuliah": "Bahasa Hewan Melata",
         "nilai": 45,
         "grade": "E",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "nim": "12345678",
-        "nama": "Budi",
+        "nama": "Rifadli Ginting",
         "mata_kuliah": "Pemrograman Web",
         "nilai": 85,
         "grade": "A",
