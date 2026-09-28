@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nim": "12345678",
+        "nama": "Jemiren",
+        "mata_kuliah": "Antropologi",
+        "nilai": 85,
+        "grade": "A",
+        "keterangan": "Lulus"
+    },
+    {
+        "id": 2,
+        "nim": "22222222",
+        "nama": "Legini",
+        "mata_kuliah": "Bahasa Hewan Melata",
+        "nilai": 45,
+        "grade": "E",
+        "keterangan": "Tidak Lulus"
+    },
+    {
+        "id": 3,
+        "nim": "12345678",
+        "nama": "Budi",
+        "mata_kuliah": "Pemrograman Web",
+        "nilai": 85,
+        "grade": "A",
+        "keterangan": "Lulus"
+    },
+    {
+        "id": 4,
+        "nim": "66666666",
+        "nama": "Andertacker",
+        "mata_kuliah": "Gukat",
+        "nilai": 25,
+        "grade": "E",
+        "keterangan": "Tidak Lulus"
+    }
+]
